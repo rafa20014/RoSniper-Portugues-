@@ -1,50 +1,23 @@
+SNIPER DE UGC
+Um robô de sniper UGC gratuito para roblox que não tem limite de items.
+Guia de instalação não-oficial
 
-# [UGC Sniper]((https://discord.gg/3Uvcf8d9aY))
-A free UGC sniper bot for roblox that sniper free limiteds.
-Special thanks to Poochy#3083 for helping with this project.
+ na compra
+Como usar
+Passo 1
+Instalar python. Primeiro você precisa instalar phyton, você pode fazer isso aqui. Depois de baixar a phyton, você precisa instalar a biblioteca de pedidos. Você pode fazer isso digitando "pip install requests" no prompt de comando ou se isso não funcionar "python -m pip install requests".
 
-**[Unofficial installation guide](https://docs.google.com/document/d/1VAqSW067-8OlexScBwje-HJcMn7vXJJM3WuRHE97-QU/edit)**
+Passo 2
+Clique em código > download zip. Isto fará o download do programa como um arquivo .zip depois disso, desempacote o ugc sniper limitado instalado em um diretório de escolha.
 
-## Table of contents
-1. [Table of contents](https://github.com/J3ldo/UGC-Sniper#Table-of-contents)
-2. [Premium](https://github.com/J3ldo/UGC-Sniper#Premium)
-3. [Features](https://github.com/J3ldo/UGC-Sniper#features)
-4. [How to use](https://github.com/J3ldo/UGC-Sniper#how-to-use)
+Passo 3
+Você precisa colocar seu cookie roblox no arquivo cookie.txt (Recomendamos apenas contas secundárias).
 
-## [Premium](https://discord.gg/3Uvcf8d9aY)
-If you aren't happy with the preformance of this UGC Sniper or want a limited sniper. You can buy the premium limited sniper. This sniper has way more functionality because for just €5,- you can get the following features.
-  
-Search for free limiteds and checks prices way faster.
-Search items based on RAP, Projection detection, alt account support, buying every limited with a price under 50 robux, blacklisted keywords, checking 119 limiteds in 0,75 seconds (no proxies), dynamic pricing of limited, and way more. 
 
-## Features
-* Buying the free limited
-* Searching 24/7 to see if its on sale
-* Easy to use
-* Lightweight
-* Rebuys when failed buying
+Vá na chrome store e pesquise por cookie editor. Depois cole em cookie.txt
 
-## How to use
+Passo 4
+Colocar os limites desejados em limiteds.txt e separá-los com uma vírgula. Deve se parecer com este Ativo1, Ativo2, Ativo3
 
-### Step 1
-Install python. You first need to install python you can do this [here](https://www.python.org/download). After downloading python you need to install the requests library. You can do this by typing "pip install requests" in the command prompt or if that doesnt work "python -m pip install requests". 
-
-### Step 2
-Click on code > download zip. This will download the program as a .zip file after that unpack the installed limited sniper into a directory of choice.
- 
-### Step 3
-You need to put in your roblox cookie into the cookie.txt file.
-
-First install this repository: https://github.com/J3ldo/Roblox-Token-Fetcher  
-Then open google chrome and click on the extensions button > manage extensions > load unpacked  
-Select the repository directory and click on the extension icon now just copy the .ROBLOSECURITY this is the 1st one!  
-And your done!
-
-### Step 4
-Put in the desired limiteds in limiteds.txt and seperate them with a comma.
-It should look like this
-Asset1, Asset2, Asset3
-
-### Step 5
-Just run the main.py file and you will see it starting to check if its free.
-That's all, hope you get some good deals and some good robux, if you do make sure to star this repository.
+Passo 5
+Basta executar o arquivo main.py e você o verá começando a verificar se está livre. Isso é tudo, espero que você consiga alguns bons negócios e um bom robux, se você fizer questão de estrelar este repositório.
